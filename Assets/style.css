@@ -1,0 +1,9 @@
+.jumbotron {
+    text-align: center;
+    border-radius: 0;
+    border-bottom: 10px solid teal;
+}
+
+.container {
+background-color: tomato;
+}
